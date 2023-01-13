@@ -1,0 +1,7 @@
+# DONT_README.md
+
+IGNORE.README.md
+
+*.md
+
+/IGNORE.README.md
