@@ -3,3 +3,5 @@
 IGNORE.README.md
 
 *.md
+
+/IGNORE.README.md
